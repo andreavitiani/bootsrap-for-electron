@@ -2,7 +2,9 @@
 
 In the head section of the page paste the following:
 
+<pre>
 <link rel="stylesheet" href="node_modules/bootstrap-it/resources/bootstrap.min.css"/>
+</pre>
 
 In the body section of the page just above the closing body tag paste the following:
 
