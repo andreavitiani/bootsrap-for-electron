@@ -1,11 +1,16 @@
-# bootstrap-me
-
+# bootsrap-for-electron
+  
+<span>
 <img src="img/bootstrap-logo.jpg" height="100" />
+</span>
+<span>
 <img src="img/electron-logo.png" height="100" />
-
-## bootsrap-for-electron
+</span>
 
 ### Installing
+
+
+### Getting started
 
 In the head section of the page paste the following:<br>
 
