@@ -15,11 +15,11 @@ A simple package for building an amazing electron application using bootstrap.
 
 ### Getting started
 
-In the head section of your html page, paste the following:<br>
+In the head section of your html page, copy/paste the following without changes:<br>
 
     <link rel="stylesheet" href="node_modules/bootstrap-it/resources/bootstrap.min.css"><br>
 
-In the body section just above the closing body tag of your HTML page paste the following:
+In the body section just above the closing body tag of your HTML page, copy/paste the following without changes:
 
     <script src="node_modules/bootstrap-it/resources/jquery-3.3.1.slim.min.js" ></script>
     <script src=" node_modules/bootstrap-it/resources/popper.min.js" ></script>
