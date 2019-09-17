@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-it",
+  "name": "bootstrap-for-electron",
   "version": "1.0.0",
   "description": "A simple package to use bootstrap in your electron application",
   "main": "index.js",
