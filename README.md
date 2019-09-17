@@ -17,13 +17,13 @@ A simple package for building an amazing electron application using bootstrap v4
 
 In the head section of your html page, copy/paste the following without changes:<br>
 
-    <link rel="stylesheet" href="node_modules/bootstrap-it/resources/bootstrap.min.css"><br>
+    <link rel="stylesheet" href="node_modules/bootstrap-for-electron/resources/bootstrap.min.css">
 
 In the body section just above the closing body tag of your HTML page, copy/paste the following without changes:
 
-    <script src="node_modules/bootstrap-it/resources/jquery-3.3.1.slim.min.js" ></script>
-    <script src=" node_modules/bootstrap-it/resources/popper.min.js" ></script>
-    <script src=" node_modules/bootstrap-it/resources/bootstap.min.js" ></script>
+    <script src="node_modules/bootstrap-for-electron/resources/jquery-3.3.1.slim.min.js" ></script>
+    <script src=" node_modules/bootstrap-for-electron/resources/popper.min.js" ></script>
+    <script src=" node_modules/bootstrap-for-electron/resources/bootstap.min.js" ></script>
 
 You have now linked all the necessary files to use bootstrap on your electron app.
 

@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-for-electron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package to use bootstrap in your electron application",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,11 @@
     "bootstrap",
     "electron"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreavitiani/bootsrap-for-electron.git"
+  },
   "author": "Andre Vitiani",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
