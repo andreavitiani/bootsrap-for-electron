@@ -5,6 +5,7 @@
 ![](img/bootstrap-logo.jpg | width=100)
 ![](img/electron-logo.png)
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+<img src="img/bootstrap-logo.jpg" height="100" />
 
 ## bootsrap-for-electron
 
