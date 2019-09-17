@@ -4,7 +4,7 @@
 
 A simple package for building an amazing electron application using bootstrap.
   
-<span align="center">
+<span>
 <img src="img/bootstrap-logo.jpg" height="100" />
 <img src="img/electron-logo.png" height="100" />
 </span>
@@ -29,8 +29,10 @@ You have now linked all the necessary files to use bootstrap on your electron ap
 
 ### Reason to install bootstrap via npm
 
-If you want to use Bootstrap in an electron application, you must download the necessary files, copy and paste them into a folder, and copy the correct relative path.
+The reason to have bootstrap in local is the usability of your desktop application when the internet connection isn't available.
 
-This take time and moreover, this take even more time for updating Bootstrap because you have to re-upload every single file every time. **bootsrap-for-electron** take care of everything for you letting you focus on the core application.
+If you want to use Bootstrap without an npm package in an electron application, you must download the necessary files, copy and paste them into a folder, and copy/paste the correct path into the HTML or template engines file links in case you are using one.
 
-Another aspect is the usability of your desktop application when the internet connection isn't available.
+Updating Bootstrap without an npm package is time consuming and error prone because you have to re-upload every single file every time. 
+
+**bootsrap-for-electron package** take care of everything without hassle.
