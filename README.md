@@ -9,14 +9,19 @@
 
 ### Installing
 
+<pre>
+npm install bootsrap-for-electron
+</pre>
 
 ### Getting started
 
 In the head section of the page paste the following:<br>
 
 <pre>
-`<link rel="stylesheet" href="node_modules/bootstrap-it/resources/bootstrap.min.css"/>`<br>
+\< link rel="stylesheet" href="node_modules/bootstrap-it/resources/bootstrap.min.css"\><br>
 </pre>
+
+    <link rel="stylesheet" href="node_modules/bootstrap-it/resources/bootstrap.min.css"><br>
 
 In the body section of the page just above the closing body tag paste the following:<br>
 
