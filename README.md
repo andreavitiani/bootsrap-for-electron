@@ -22,3 +22,11 @@ In the body section of the page just above the closing body tag of your HTML pag
     <script src=" node_modules/bootstrap-it/resources/bootstap.min.js" ></script>
 
 You have now linked all the necessary files to use bootstrap on your electron app.
+
+### Reason to install bootstrap via npm
+
+If you want to use Bootstrap in an electron application, you must download the necessary files, copy and paste them into a folder, and copy the correct relative path.
+
+This take time and moreover, this take even more time for updating Bootstrap because you have to re-upload every single file every time. **bootsrap-for-electron** take care of everything for you letting you focus on the core application.
+
+Another aspect is the usability of your desktop application when the internet connection isn't available.
