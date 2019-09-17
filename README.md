@@ -1,6 +1,6 @@
 # bootstrap-me
 
-![](img/bootstrap-logo.jpg | height= 100)
+![](https://github.com/andreavitiani/bootstrap-me/blob/master/img/bootstrap-logo.jpg | height= 100)
 ![](img/electron-logo.png | height= 100)
 
 ## bootsrap-for-electron
