@@ -5,8 +5,8 @@
 A simple package for building an amazing electron application using bootstrap v4.3.1.
 
 <span>
-<img src="img/bootstrap-logo.jpg" height="100" />
-<img src="img/electron-logo.png" height="100" />
+<img src="https://raw.githubusercontent.com/andreavitiani/bootsrap-for-electron/master/img/bootstrap-logo.jpg" height="100" />
+<img src="https://raw.githubusercontent.com/andreavitiani/bootsrap-for-electron/master/img/electron-logo.png" height="100" />
 </span>
 
 ### Installing
