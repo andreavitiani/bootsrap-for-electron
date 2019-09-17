@@ -1,4 +1,8 @@
 # bootsrap-for-electron
+
+### What is bootsrap-for-electron?
+
+A simple package for building an amazing electron application using bootstrap.
   
 <span align="center">
 <img src="img/bootstrap-logo.jpg" height="100" />
